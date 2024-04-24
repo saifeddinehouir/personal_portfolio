@@ -1,10 +1,14 @@
 export const aboutMeData = [
 	{
 		id: 1,
-		bio: "As a dedicated software engineer, I thrive on crafting elegant solutions to complex technical challenges. With a solid foundation in computer science and a passion for cutting-edge technologies, I bring a wealth of experience in developing robust software applications. From conceptualization to implementation, I specialize in writing clean, efficient code that not only meets project requirements but also scales seamlessly."
-	},
+		bio: "En tant qu'ingénieur dédié au logiciel, je m'épanouis dans la création de solutions élégantes aux défis techniques complexes. Fort d'une solide formation en informatique et passionné par les technologies de pointe, je possède une expérience approfondie dans le développement d'applications logicielles robustes. De la conceptualisation à la mise en œuvre, je me spécialise dans l'écriture de code propre et efficace qui répond non seulement aux exigences du projet, mais qui évolue également de manière transparente."
+		
+		
+		
+		
+    },
 	{
 		id: 2,
-		bio: " Whether it's architecting scalable backend systems, designing intuitive user interfaces, or optimizing algorithms for performance, I am committed to delivering high-quality software that exceeds expectations. With a focus on collaboration and innovation, I'm eager to continue pushing boundaries and driving impactful change in the ever-evolving world of technology.",
+		bio: " Que ce soit pour concevoir des systèmes backend évolutifs, concevoir des interfaces utilisateur intuitives ou optimiser des algorithmes pour des performances optimales, je m'engage à fournir un logiciel de haute qualité qui dépasse les attentes. Avec un accent mis sur la collaboration et l'innovation, je suis impatient de continuer à repousser les limites et à apporter des changements impactants dans le monde en constante évolution de la technologie.",
 	},
 ];

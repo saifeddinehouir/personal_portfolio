@@ -15,14 +15,14 @@ import {
 
 export const singleProjectData = {
 	ProjectHeader: {
-		title: 'HR Management System',
+		title: 'Système de Gestion des Ressources Humaines',
 		publishDate: 'Dec 26, 2023',
 	   tags: 'Web Developpemnt',
 	},
 	ProjectImages: [
 		{
 			id: 1,
-			title: 'HR Management System',
+			title: 'Système de Gestion des Ressources Humaines',
 			img: Image1,
 		},
 		{
@@ -34,41 +34,41 @@ export const singleProjectData = {
 	],
 	ProjectInfo: {
 		
-		ObjectivesHeading: 'Objective',
+		ObjectivesHeading: 'Objectif',
 		ObjectivesDetails:
-			"Our objective in developing the Human Resources Management System (HRMS) on Oracle APEX was to create an efficient, user-friendly solution tailored to meet the intricate demands of managing HR functions within our organization. With this platform, we aimed to centralize and streamline all aspects of HR operations, from employee data management to recruitment processes.",
+			"Notre objectif dans le développement du Système de Gestion des Ressources Humaines (HRMS) sur Oracle APEX était de créer une solution efficace et conviviale, adaptée pour répondre aux exigences complexes de gestion des fonctions RH au sein de notre organisation. Avec cette plateforme, nous avons cherché à centraliser et rationaliser tous les aspects des opérations RH, de la gestion des données des employés aux processus de recrutement.",
 		Technologies: [
 			{
-				title: 'Tools & Technologies',
+				title: 'Technologies',
 				techs: [
 					'Oracle Apex'
 				],
 			},
 		],
-		ProjectDetailsHeading: 'Challenge',
+		ProjectDetailsHeading: 'Défi',
 		ProjectDetails: [
 			{
 				id: 1,
 				details:
-					"In our project of Human Resources Management System (HRMS) developed on Oracle APEX, we have focused on creating an integrated and user-friendly solution to address the complex HR management needs within our organization. ",
+					"Dans notre projet de Système de Gestion des Ressources Humaines (HRMS) développé sur Oracle APEX, nous nous sommes concentrés sur la création d'une solution intégrée et conviviale pour répondre aux besoins complexes de gestion des ressources humaines au sein de notre organisation.",
 			},
 			{
 				id: 2,
 				details:
-					"With this platform, we can easily manage all employee-related information, from personal data to employment history, performance evaluations, and completed training courses. Additionally, we have integrated recruitment and candidate management modules to streamline our hiring processes, enabling recruiters to post job openings, track applications, conduct assessments, all while centralizing all data within a single system.",
+					"Avec cette plateforme, nous pouvons facilement gérer toutes les informations liées aux employés, depuis les données personnelles jusqu'à l'historique de l'emploi, les évaluations de performance et les cours de formation terminés. De plus, nous avons intégré des modules de recrutement et de gestion des candidats pour rationaliser nos processus de recrutement, permettant aux recruteurs de publier des offres d'emploi, de suivre les candidatures, de mener des évaluations, le tout en centralisant toutes les données dans un seul système.",
 			},
 			{
 				id: 3,
 				details:
-					"What makes this project even more powerful is its flexibility. We designed the system to be easily customizable to adapt to our company's specific workflows and HR policies. This means we can adjust forms, reports, and processes according to our evolving needs, thereby optimizing our operational efficiency. ",
+					"Ce qui rend ce projet encore plus puissant, c'est sa flexibilité. Nous avons conçu le système pour être facilement personnalisable afin de s'adapter aux flux de travail spécifiques de notre entreprise et aux politiques en matière de ressources humaines. Cela signifie que nous pouvons ajuster les formulaires, les rapports et les processus en fonction de nos besoins évolutifs, ce qui permet d'optimiser notre efficacité opérationnelle. ",
 			},
 			{
 				id: 4,
 				details:
-					"Furthermore, we have implemented advanced security measures to protect sensitive data, ensuring that only authorized users have access to relevant information. Through this combination of power, flexibility, and security, our HR management system in Oracle APEX has become a crucial pillar of our infrastructure, helping us drive organizational growth while ensuring effective management of our human capital.",
+					"De plus, nous avons mis en place des mesures de sécurité avancées pour protéger les données sensibles, garantissant que seuls les utilisateurs autorisés ont accès aux informations pertinentes. Grâce à cette combinaison de puissance, de flexibilité et de sécurité, notre Système de Gestion des Ressources Humaines sur Oracle APEX est devenu un pilier crucial de notre infrastructure, nous aidant à stimuler la croissance organisationnelle tout en assurant une gestion efficace de notre capital humain.",
 			},
 		],
-		SocialSharingHeading: 'Share This',
+		SocialSharingHeading: 'Partagez ceci',
 		SocialSharing: [
 			
 			{
@@ -92,7 +92,7 @@ export const singleProjectData = {
 		],
 	},
 	RelatedProject: {
-		title: 'Related Projects',
+		title: 'Projets en liaison',
 		Projects: [
 			{
 				id: 1,

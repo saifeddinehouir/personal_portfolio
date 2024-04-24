@@ -7,26 +7,26 @@ import UIImage1 from '../images/tra.webp';
 export const projectsData = [
 	{
 		id: 1,
-		title: 'HR Management System',
-		category: 'Web Application',
+		title: 'Système de Gestion des Ressources Humaines',
+		category: 'Application web',
 		img: WebImage2,
 		ProjectHeader: {
-			title: 'HR Management System',
+			title: 'Système de Gestion des Ressources Humaines',
 			publishDate: 'Dec 26, 2023',
-			tags: 'Web Developpemnt',
+			tags: 'Developpement Web ',
 		},
 	},
 	{
 		id: 2,
-		title: 'Modeling a multi-capacity location problem with multiple levels of assignment',
-		category: 'Optimization',
+		title: "Modélisation d'un problème de localisation à capacité multiple avec plusieurs niveaux d'attribution",
+		category: 'Optimisation',
 		img: MobileImage2,
 		
 	},
 	{
 		id: 3,
-		title: 'Supply Chain Traceability Platform ',
-		category: 'Web Application',
+		title: "Plateforme de traçabilité de la chaîne d'approvisionnement",
+		category: 'Application web',
 		img: UIImage1,
 	},
 	
